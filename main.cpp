@@ -18,9 +18,9 @@ int main()
   }
   else
   {
-  cout<<"?! Pssh. What are you talking about?\n";
+  cout<<"$?! Pssh. What are you talking about?\n";
   }
-  cout<<"The ASCII value is: "<<(int)letter<<".";cout<<endl;
+  cout<<"The ASCII value is: "<<(int)letter<<"";cout<<endl;
 
   return 0;
 }

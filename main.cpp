@@ -20,7 +20,7 @@ int main()
   {
   cout<<"?! Pssh. What are you talking about?\n";
   }
-  cout<<"The ASCII value is: "<<(int)letter<<"endl";
+  cout<<"The ASCII value is: "<<(int)letter<<"."endl;
 
   return 0;
 }
